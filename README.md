@@ -1,4 +1,4 @@
-# COFFEE_SHOP_BUSINESS
+
 # Coffee Sales Dashboard
 ![Coffee Background Banner (4)](https://img.freepik.com/premium-photo/coffee-coffee-beans-morning_636537-238965.jpg)
 
